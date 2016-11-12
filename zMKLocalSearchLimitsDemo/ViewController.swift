@@ -14,7 +14,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
 	/*
 		Demo MKLocalSearch limits:
 		1) Single search, returns only 10 results
-		2) Multiple searches, throttled after 35
+		2) Multiple searches, throttled after 35 or so
 	*/
 
 	// MARK: - Properties
