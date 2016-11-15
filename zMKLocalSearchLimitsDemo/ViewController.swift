@@ -235,7 +235,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
 		let alertView = UIAlertController(title: "Searches Complete",
 		                                  message: "Multiple search sequences have all completed!",
 		                                  preferredStyle: UIAlertControllerStyle.alert)
-		let alertOKAction = UIAlertAction(title: "Title",
+		let alertOKAction = UIAlertAction(title: "OK",
 		                                  style: UIAlertActionStyle.default,
 		                                  handler: nil)
 		alertView.addAction(alertOKAction)
